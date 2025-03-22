@@ -30,23 +30,8 @@ Figma on koostööl põhinev kujundustööriist, mis töötab sinu veebibrauseri
 - Lõuendil töötamine
 
 ### Videoõpetus
-<style>
-.video-container {
-    width: 100%;
-    max-width: 100%;
-    margin: 20px 0;
-}
-.video-container video {
-    width: 100%;
-    height: auto;
-    display: block;
-}
-</style>
 
-<div class="video-container">
-    <video src="https://help.figma.com/hc/article_attachments/4405269899287/explore-ideas.mp4" controls poster="https://help.figma.com/hc/article_attachments/4405269899287/explore-ideas.png"></video>
-</div>
-
+<video src="https://help.figma.com/hc/article_attachments/4405269899287/explore-ideas.mp4"></video>
 ## Põhiline navigeerimine
 
 ### Figma kasutajaliides
