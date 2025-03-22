@@ -31,7 +31,7 @@ Figma on koostööl põhinev kujundustööriist, mis töötab sinu veebibrauseri
 
 ### Videoõpetus
 
-<video src="https://help.figma.com/hc/article_attachments/4405269899287/explore-ideas.mp4"></video>
+<video src="https://help.figma.com/hc/article_attachments/4405269899287/explore-ideas.mp4" width=180/></video>
 ## Põhiline navigeerimine
 
 ### Figma kasutajaliides
